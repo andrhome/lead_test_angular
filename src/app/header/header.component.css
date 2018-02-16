@@ -1,0 +1,11 @@
+.header {
+    font-size: 20px;
+    font-weight: 700;
+    color: #6F7079;
+    text-align: center;
+    border-bottom: 1px solid #6F7079;
+    padding: 30px;
+}
+.header h4 {
+    margin: 0;
+}
